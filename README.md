@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Sou professora de tecnologia e robótica da PEI Luiz Darly ✨
 <!--
 **camilamanciomorais/camilamanciomorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
